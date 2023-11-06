@@ -2,7 +2,7 @@
 
 This is a collaborative project that I have done with two of my classmates for the data mining course.
 Introduction:
-In this project, you will implement and compare the performance of three classification models: Support Vector Machine (SVM), k-Nearest Neighbors (KNN), and Decision Tree. The goal is to predict individuals' income based on given features. You will use a dataset containing information about individuals, and the dataset consists of 32,561 samples with two classes, 'Income' and other feature columns.
+In this project,implement and compare the performance of three classification models: Support Vector Machine (SVM), k-Nearest Neighbors (KNN), and Decision Tree. The goal is to predict individuals' income based on given features. Using a dataset containing information about individuals, and the dataset consists of 32,561 samples with two classes, 'Income' and other feature columns.
 
 Implementation:
 
